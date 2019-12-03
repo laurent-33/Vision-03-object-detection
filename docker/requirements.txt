@@ -1,0 +1,17 @@
+bigml
+kaggle
+matplotlib
+rise
+jupyter_contrib_nbextensions
+autopep8
+papermill
+qgrid
+ipywidgets
+ipynb
+umap-learn
+sklearn
+xgboost
+seaborn
+tensorflow
+keras
+opencv-contrib-python
